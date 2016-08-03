@@ -1,0 +1,13 @@
+# the directory idea/ & the file *.iml used for the IDE IntelliJ
+.idea/
+*.iml
+
+# NodeJS
+node/
+node_modules/
+
+# Build
+dist/
+npm-debug.log
+temp/
+

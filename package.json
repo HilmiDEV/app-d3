@@ -1,0 +1,15 @@
+{
+  "name": "app-d3.js",
+  "version": "1.0.0",
+  "description": "Simple app with D3 library",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Hilmi BOUALLEGUE",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.2.1",
+    "lite-server": "^2.2.2"
+  }
+}
